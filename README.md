@@ -9,4 +9,4 @@ In this report, the following questions of interest are addressed:
 ●	Does publishers have any impact on sales of video games?
 ●	Forecast sales on highest selling genre.
 
-A publisher must decide which genre of game he should sell in order to gain the maximum profit from the global market.  The results in this paper may provide some insight to publishers that are trying to decide which type of console, genre, and region are best to sell the product. The results can also help to decide the marketing strategy for the game according to the game.
+A publisher must decide which genre of game he should sell in order to gain the maximum profit from the global market.  The results in this repository may provide some insight to publishers that are trying to decide which type of console, genre, and region are best to sell the product. The results can also help to decide the marketing strategy for the game according to the game.
